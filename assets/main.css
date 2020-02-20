@@ -363,8 +363,9 @@ header .btn-ghost{
 .ui-footer{
     padding-top:30px;
     padding-bottom:40px;
-    font-size:12px;
-    background:#00a4bf;
+    font-size:14px;
+    color: aliceblue;
+    background:#006b7d;
 }
 .ui-footer svg{
     fill:#0080BD;
