@@ -386,6 +386,7 @@ section.social{
 }
 @media only screen and (max-width: 639px){
     .game .gallery-navigation{
+        top:160px;
         bottom:20px
     }
 }

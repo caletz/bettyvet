@@ -391,10 +391,9 @@ header .btn-ghost{
         padding-bottom:0
     }
     .ui-footer .grid__column{
-        text-align:left
+        text-align:center
     }
     .ui-footer .grid__column ul{
-        border:1px solid #CCC;
         border-radius:6px;
         background:#FFF
     }
@@ -402,7 +401,6 @@ header .btn-ghost{
         display:block;
         padding-left:15px;
         font-size:16px;
-        border-top:1px solid #DDD;
         line-height:42px
     }
 }
