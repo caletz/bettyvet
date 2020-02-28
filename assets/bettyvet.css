@@ -164,7 +164,7 @@ section.social{
     border-bottom:0px solid #3b1205;
     background-repeat:repeat-x, repeat, repeat;
     background-position:center top, center, center;
-    background-image:url(""),url("deco-wood-texture-7f52a23ef3d8ec7450e90299370e4a3b.png"),linear-gradient(to bottom, #cc5e7c 0%, #dc8f88 50%, #05bddb 100%)
+    background-image:url(""),url("deco-wood-texture-7f52a23ef3d8ec7450e90299370e4a3b.png"),linear-gradient(to bottom, #cc5e7c 0%, #0791c4 50%, #05bddb 100%)
 }
 .game-subscribe__title{
     position:relative
