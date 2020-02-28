@@ -249,7 +249,7 @@ header .btn-ghost{
 .nav-games li{
     -webkit-flex-grow:1;
     flex-grow:1;
-    width:1035px
+    width:105px
 }
 .nav-games a{
     text-align:center;
@@ -468,10 +468,10 @@ header .btn-ghost{
     .grid{
         text-align:center;
         width:100%;
-        padding:0 20px
+        padding:0 20px 30px;
     }
     .grid .grid__column{
-        margin:10px auto
+        margin:50px auto
     }
 }
 @media only screen and (min-width: 640px){

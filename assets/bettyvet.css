@@ -184,10 +184,14 @@ section.social{
         padding-bottom:20px;
         background-position:center 27px;
         background-repeat:no-repeat;
-        background-image:url("subscribe-head-bg-aa866761af9118980e3161cccba530c3.png")
+        background-image:url("subscribe-head-bg-aa866761af9118980e3161cccba530c3.png");
+        
     }
     .game-subscribe__title{
-        margin-top:-44px
+        margin-top:-44px;
+        max-width: 210px;
+        padding-left: 60px;
+        
     }
     .game-subscribe__subtitle{
         font-size:20px
@@ -251,10 +255,12 @@ section.social{
         overflow:visible;
         position:relative;
         padding:10px
+            
     }
     .game .subscribe__input{
         margin:10px auto 20px;
         text-align:center
+            
     }
     .game .subscribe__button{
         position:absolute;
