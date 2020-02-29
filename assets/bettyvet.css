@@ -11,6 +11,8 @@
     font-weight:bold;
     font-family:'IWouldWriteItAll', sans-serif;
     background-color:#01d310;
+    text-shadow:0 4px rgba(0,0,0,0.4);
+
     text-decoration:none;
     line-height:20px;
     -webkit-transition:transform 0.3s ease-in-out;
