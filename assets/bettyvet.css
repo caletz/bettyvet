@@ -185,13 +185,10 @@ section.social{
         background-position:center 27px;
         background-repeat:no-repeat;
         background-image:url("subscribe-head-bg-aa866761af9118980e3161cccba530c3.png");
-        
     }
     .game-subscribe__title{
-        margin-top:-44px;
-        margin-left:115px;
-        width: 160px;
-        
+        align-content: center;
+        margin:-40px 123px 20px;
     }
     .game-subscribe__subtitle{
         font-size:20px
@@ -386,8 +383,8 @@ section.social{
 }
 @media only screen and (max-width: 639px){
     .game .gallery-navigation{
-        top:225px;
-        bottom:230px
+        align-content: center;
+        margin:270px 0px;
     }
 }
 @media only screen and (min-width: 640px){
