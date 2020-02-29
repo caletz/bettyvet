@@ -189,7 +189,7 @@ section.social{
     }
     .game-subscribe__title{
         margin-top:-44px;
-        margin-left:145px;
+        margin-left:120px;
         width: 160px;
         
     }
@@ -386,7 +386,7 @@ section.social{
 }
 @media only screen and (max-width: 639px){
     .game .gallery-navigation{
-        top:260px;
+        top:245px;
         bottom:230px
     }
 }
