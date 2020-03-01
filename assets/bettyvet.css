@@ -194,7 +194,7 @@ section.social{
     }
     .game-subscribe__title{
         align-content: center;
-        margin:-40px 123px 20px;
+        margin:-40px 80px 0px;
     }
     .game-subscribe__subtitle{
         font-size:20px
@@ -390,7 +390,7 @@ section.social{
 @media only screen and (max-width: 639px){
     .game .gallery-navigation{
         align-content: center;
-        margin:270px 0px;
+        margin:200px 0px;
     }
 }
 @media only screen and (min-width: 640px){
