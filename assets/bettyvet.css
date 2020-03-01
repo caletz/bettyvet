@@ -3,16 +3,14 @@
     overflow:hidden;
     display:block;
     width:100%;
-    height:50px;
+    height:120px;
     left:0;
     bottom:0;
-    padding:15px 10px;
+    padding:46px 10px;
     font-size:25px;
     font-weight:bold;
     font-family:'IWouldWriteItAll', sans-serif;
-    background-color:#01d310;
     text-shadow:0 4px rgba(0,0,0,0.4);
-
     text-decoration:none;
     line-height:20px;
     -webkit-transition:transform 0.3s ease-in-out;
@@ -26,7 +24,13 @@
     z-index:9999
 }
 .cta-label,.cta-label:hover{
-    color:#FFF
+    color:#FFF;
+    background-image:url("download-button.png");
+    background-repeat:no-repeat;
+    background-position:center;
+
+    
+        
 }
 .cta-label.visible{
     -webkit-transform:translateY(0);
